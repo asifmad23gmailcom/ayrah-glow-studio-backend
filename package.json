@@ -1,0 +1,12 @@
+{
+  "name": "ayrah-glow-studio-secure-razorpay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ayrah Glow Studio secure Razorpay checkout server",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20.6.0"
+  }
+}

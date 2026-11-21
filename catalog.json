@@ -1,0 +1,107 @@
+[
+  {
+    "id": "AGS-001",
+    "name": "Red Daisy Luxury Jar Candle",
+    "price": 1199
+  },
+  {
+    "id": "AGS-002",
+    "name": "Golden Hour Jar",
+    "price": 1299
+  },
+  {
+    "id": "AGS-003",
+    "name": "Rose Petal Jar",
+    "price": 1399
+  },
+  {
+    "id": "AGS-004",
+    "name": "Lavender Dream",
+    "price": 1099
+  },
+  {
+    "id": "AGS-005",
+    "name": "Rose Reverie",
+    "price": 1199
+  },
+  {
+    "id": "AGS-006",
+    "name": "Spiced Serenity",
+    "price": 1299
+  },
+  {
+    "id": "AGS-007",
+    "name": "Botanical Soy",
+    "price": 999
+  },
+  {
+    "id": "AGS-008",
+    "name": "Pure Comfort Soy",
+    "price": 1099
+  },
+  {
+    "id": "AGS-009",
+    "name": "Slow Morning Soy",
+    "price": 1199
+  },
+  {
+    "id": "AGS-010",
+    "name": "Lilac Bubble",
+    "price": 699
+  },
+  {
+    "id": "AGS-011",
+    "name": "Ivory Bubble",
+    "price": 749
+  },
+  {
+    "id": "AGS-012",
+    "name": "Pearl Bubble",
+    "price": 799
+  },
+  {
+    "id": "AGS-013",
+    "name": "Blushing Rose",
+    "price": 899
+  },
+  {
+    "id": "AGS-014",
+    "name": "Petal Blossom",
+    "price": 999
+  },
+  {
+    "id": "AGS-015",
+    "name": "Golden Rose",
+    "price": 1099
+  },
+  {
+    "id": "AGS-016",
+    "name": "Cozy Tea Lights",
+    "price": 399
+  },
+  {
+    "id": "AGS-017",
+    "name": "Little Glow Duo",
+    "price": 449
+  },
+  {
+    "id": "AGS-018",
+    "name": "Evening Lights",
+    "price": 499
+  },
+  {
+    "id": "AGS-019",
+    "name": "Golden Twist",
+    "price": 899
+  },
+  {
+    "id": "AGS-020",
+    "name": "Artisan Spiral",
+    "price": 999
+  },
+  {
+    "id": "AGS-021",
+    "name": "Ribbed Elegance",
+    "price": 949
+  }
+]
